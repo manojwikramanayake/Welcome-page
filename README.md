@@ -6,19 +6,22 @@
  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Always%20learning%20new%20things%20!&center=true&width=500&height=50"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojwikramanayake&label=Profile%20views&color=0e75b6&style=flat" alt="manojwikramanayake" /> 
  <a href="https://github.com/manojwikramanayake">
-	<img src="https://img.shields.io/github/followers/manojwikramanayake?label=Followers" alt="manojwikramanayakes" />
-	</a>
+<img src="https://img.shields.io/github/followers/manojwikramanayake?label=Followers" alt="manojwikramanayakes" >
+</a>
 </p>
+<p>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <li>🎓 I’m an Undergraduate at <b>Rajarata University Sri Lanka</b></li>
- <li>🌱 I’m currently learning <b>Angular</b></li>
+<li>🤝 I’m available for <b>freelancing</b>.</li>
+<li>🌱 I’m currently learning <b>Angular</b></li>
 <li>💬 Ask me about <b>React</b></li>
 
 <li>📫 How to reach me <a href="https://mail.google.com/mail/u/0/#inbox?compose=lqrsmLLXKgBtbDWkGNcQmJWrGDPzDsTvLmCcSSlSThgxMwQFBnpBQptGMSmsqMzqhhVNHPrQWJnhpwrrT"><b>manojhashanwikramanayake@gmail.com</b></a></li>
 
 <li>⚡ Fun fact <b>Call me as mr.infinity</b></li>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+</p>
+<br><br>
+<h3 align="center">Connect with me:</h3><p align="center">
 <a href="https://twitter.com/manowicky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manowicky" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manojhashan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manojhashan" height="30" width="40" /></a>
 <a href="https://fb.com/manojhashan.wikramanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manojhashan.wikramanayaka" height="30" width="40" /></a>
