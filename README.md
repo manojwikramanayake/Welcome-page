@@ -13,7 +13,7 @@
  <li>🌱 I’m currently learning <b>Angular</b></li>
 <li>💬 Ask me about <b>React</b></li>
 
-<li>📫 How to reach me <a href="manojhashanwikramanayake@gmail.com"><b>manojhashanwikramanayake@gmail.com</b></a></li>
+<li>📫 How to reach me <a href="https://mail.google.com/mail/u/0/#inbox?compose=lqrsmLLXKgBtbDWkGNcQmJWrGDPzDsTvLmCcSSlSThgxMwQFBnpBQptGMSmsqMzqhhVNHPrQWJnhpwrrT"><b>manojhashanwikramanayake@gmail.com</b></a></li>
 
 <li>⚡ Fun fact <b>Call me as mr.infinity</b></li>
 
